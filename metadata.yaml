@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 36658-h/images/cover-s.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36658#Tales-from-the-Old-French
 gutenberg_issued: '2011-07-08'
 gutenberg_type: Text
 identifiers:
