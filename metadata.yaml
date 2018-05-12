@@ -1,0 +1,30 @@
+_repo: Tales-from-the-Old-French_36658
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Butler, Isabel
+    gutenberg_agent_id: '38401'
+    url: http://www.gutenberg.org/2009/agents/38401
+covers:
+- cover_type: archival
+  image_path: 36658-h/images/cover-s.jpg
+description: ''
+gutenberg_issued: '2011-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- France -- Translations into English'
+- !lcc 'PQ'
+tableOfContents: 'Lais: The lay of the bird. The woful knight / Marie de France. The
+  two lovers / Marie de France. Eliduc / Marie de France. Melion. The lay of the horn
+  / Robert Biquet -- Fabliaux: The divided blanket / Bernier. Of the churl who won
+  Paradise. The gray palfrey / Huon Leroi -- Contes dévots et didactiques: The knight
+  of the little cask. The angel and the hermit. The jousting of Our Lady. The Order
+  of Chivalry -- Epilogue -- Bibliography -- Translator''s note.'
+title: Tales from the Old French
+url: http://www.gutenberg.org/ebooks/36658
